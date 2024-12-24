@@ -22,7 +22,7 @@ This library implements an Authentication handler for HTTP requests using the [A
    pip install edgegrid-python
     ```
 
-4. Clone this repository : 
+4. Clone this repository: https://github.com/akamai/edgegrid-curl.git
 and then execute `egcurl` directly from the cloned repository.
 
 ## Authentication
